@@ -443,7 +443,7 @@ footer {
 ملاحظات: ${notes}
       `;
 
-      const whatsappNumber = '97259-932-5261';
+      const whatsappNumber = '972599325261';
       const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
       window.open(whatsappURL, '_blank');
